@@ -1,4 +1,19 @@
-# YFAngularApp
+# YFAngularApp  Angular前端
+
+>AngularJS + Less
+
+## 一、安装
+```
+cd YF-angular-app
+npm install 
+```
+
+## 二、运行
+```
+ng serve --open
+```
+
+----
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.9.
 
